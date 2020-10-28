@@ -7,4 +7,4 @@ namespace entity.Models
         public int Age {get; set;}=23;
         public SkillClass Skill { get; set; } = SkillClass.fullstack;
     }
-}
+} 
