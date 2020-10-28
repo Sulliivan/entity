@@ -18,3 +18,16 @@ C:\Users\arinfo\Desktop\entity\obj\Debug\netcoreapp3.1\staticwebassets\entity.St
 C:\Users\arinfo\Desktop\entity\obj\Debug\netcoreapp3.1\entity.dll
 C:\Users\arinfo\Desktop\entity\obj\Debug\netcoreapp3.1\entity.pdb
 C:\Users\arinfo\Desktop\entity\obj\Debug\netcoreapp3.1\entity.genruntimeconfig.cache
+C:\Users\arinfo\Desktop\entity\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\arinfo\Desktop\entity\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\arinfo\Desktop\entity\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\arinfo\Desktop\entity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\arinfo\Desktop\entity\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\arinfo\Desktop\entity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\arinfo\Desktop\entity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\arinfo\Desktop\entity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\arinfo\Desktop\entity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\arinfo\Desktop\entity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\arinfo\Desktop\entity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\arinfo\Desktop\entity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\arinfo\Desktop\entity\obj\Debug\netcoreapp3.1\entity.csproj.CopyComplete
